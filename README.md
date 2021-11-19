@@ -1,0 +1,2 @@
+# Sentiment-Analysis-on-Twitter-Dataset
+We have built a machine learning model which is able to analyze loads of tweets &amp; can judge the sentiments behind them. We're gonna be analyzing tweets made against an airline, and judging if they are of positive, negative or neutral sentiments. Sentiment analysis is helpful to businesses and companies to help track the performance of their product, or their services and how people are responding towards it, and how they can improve by analyzing the reviews on their services.
